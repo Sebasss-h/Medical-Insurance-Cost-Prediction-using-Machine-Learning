@@ -1,4 +1,4 @@
-# Medical-Insurance-Risk-Prediction-using-Machine-Learning
+# Medical-Insurance-Risk-Classification-using-Machine-Learning
 
 ## Objective
 The goal of this project is to develop a simple yet reliable indicator that allows insurance providers to quickly assess whether a new applicant requires deeper evaluation before being granted a medical insurance policy. 
